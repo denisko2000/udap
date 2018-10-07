@@ -1,0 +1,7 @@
+@font-face {
+    font-family: Pompadur; /* Гарнитура шрифта */
+    src: url(fonts/Chunkfive.otf); /* Путь к файлу со шрифтом */
+   }
+   a:hover {
+    border-bottom: 3px solid rgb(49, 132, 180);
+   }   
