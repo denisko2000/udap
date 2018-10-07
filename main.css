@@ -1,0 +1,12 @@
+body{
+    background-image: url('image/352204-admin_3840x2400.jpg') ;
+    background-size: 100% 100%;
+    font-family: Pompadur;
+    margin: 0px;
+    padding: 0px;
+    background-attachment: fixed
+}
+.nav-link{
+    text-transform: uppercase;
+}
+
